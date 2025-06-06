@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EmployeeInformation>
+  <Employee>
+    <ID>001</ID>
+    <Name>正弦</Name>
+    <Username>sin</Username>
+    <Passward>123</Passward>
+    <Date>2025/6/5 21:13:46</Date>
+    <OnOff>是</OnOff>
+  </Employee>
+  <Employee>
+    <ID>002</ID>
+    <Name>fei</Name>
+    <Username>fei208</Username>
+    <Passward>321</Passward>
+    <Date>2025-05-20 05:20:20</Date>
+    <OnOff>是</OnOff>
+  </Employee>
+  <Employee>
+    <ID>003</ID>
+    <Name>jia</Name>
+    <Username>jia208</Username>
+    <Passward>321</Passward>
+    <Date>2025-05-20 05:20:20</Date>
+    <OnOff>是</OnOff>
+  </Employee>
+</EmployeeInformation>
