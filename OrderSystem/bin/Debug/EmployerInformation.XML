@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EmployerInformation>
+  <Employer>
+    <ID>001</ID>
+    <Name>正弦</Name>
+    <Username>sin</Username>
+    <Passward>123</Passward>
+    <Date>2025/6/17 22:29:26</Date>
+  </Employer>
+  <Employer>
+    <ID>002</ID>
+    <Name>余弦</Name>
+    <Username>cos</Username>
+    <Passward>321</Passward>
+    <Date>2025-05-20 05:20:20</Date>
+  </Employer>
+  <Employer>
+    <ID>003</ID>
+    <Name>正切</Name>
+    <Username>tan</Username>
+    <Passward>456</Passward>
+    <Date>2025-05-20 05:20:20</Date>
+  </Employer>
+</EmployerInformation>

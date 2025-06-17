@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Menu>
+  <Dish>
+    <Name 菜名="红烧肉">红烧肉</Name>
+    <Price 单价="12">12</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="宫爆鸡丁">宫爆鸡丁</Name>
+    <Price 单价="14">14</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="红烧鲤鱼">红烧鲤鱼</Name>
+    <Price 单价="20">20</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="水煮鱼">水煮鱼</Name>
+    <Price 单价="26">26</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="炒笨鸡">炒笨鸡</Name>
+    <Price 单价="25">25</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="香菇鸡块">香菇鸡块</Name>
+    <Price 单价="20">20</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="大盆鸡">大盆鸡</Name>
+    <Price 单价="22">22</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="清蒸鸡">清蒸鸡</Name>
+    <Price 单价="20">20</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="糖醋鲤鱼">糖醋鲤鱼</Name>
+    <Price 单价="20">20</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="葱油鲤鱼">葱油鲤鱼</Name>
+    <Price 单价="20">20</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="香辣鲤鱼">香辣鲤鱼</Name>
+    <Price 单价="20">20</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="茄子炖鱼">茄子炖鱼</Name>
+    <Price 单价="24">24</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="麻辣鱼">麻辣鱼</Name>
+    <Price 单价="22">22</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="酸菜鱼">酸菜鱼</Name>
+    <Price 单价="26">26</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="鲫鱼粉条">鲫鱼粉条</Name>
+    <Price 单价="28">28</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="草鱼水饺">草鱼水饺</Name>
+    <Price 单价="20">20</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="白菜">白菜</Name>
+    <Price 单价="6">6</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="土豆丝">土豆丝</Name>
+    <Price 单价="12">12</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="空心菜">空心菜</Name>
+    <Price 单价="18">18</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="日本豆腐">日本豆腐</Name>
+    <Price 单价="24">24</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="蔬菜沙拉">蔬菜沙拉</Name>
+    <Price 单价="20">20</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="蔬菜粥">蔬菜粥</Name>
+    <Price 单价="15">15</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="蔬菜饼">蔬菜饼</Name>
+    <Price 单价="20">20</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="五彩蔬菜丸子">五彩蔬菜丸子</Name>
+    <Price 单价="25">25</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="西红柿蛋汤">西红柿蛋汤</Name>
+    <Price 单价="4">4</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="紫菜蛋汤">紫菜蛋汤</Name>
+    <Price 单价="10">10</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="三鲜汤">三鲜汤</Name>
+    <Price 单价="11">11</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="鱼头豆腐汤">鱼头豆腐汤</Name>
+    <Price 单价="15">15</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="猪骨汤">猪骨汤</Name>
+    <Price 单价="10">10</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="红枣汤">红枣汤</Name>
+    <Price 单价="6">6</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="苦瓜汤">苦瓜汤</Name>
+    <Price 单价="7">7</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="海参汤">海参汤</Name>
+    <Price 单价="15">15</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="菠菜汤">菠菜汤</Name>
+    <Price 单价="5">5</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="海带汤">海带汤</Name>
+    <Price 单价="6">6</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="丝瓜汤">丝瓜汤</Name>
+    <Price 单价="8">8</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="牛腩汤">牛腩汤</Name>
+    <Price 单价="12">12</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="香菇汤">香菇汤</Name>
+    <Price 单价="8">8</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="疙瘩汤">疙瘩汤</Name>
+    <Price 单价="9">9</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="土豆汤">土豆汤</Name>
+    <Price 单价="7">7</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="玉米汤">玉米汤</Name>
+    <Price 单价="6">6</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="粉丝汤">粉丝汤</Name>
+    <Price 单价="9">9</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="莲子汤">莲子汤</Name>
+    <Price 单价="10">10</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="鱼丸汤">鱼丸汤</Name>
+    <Price 单价="12">12</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="大骨头汤">大骨头汤</Name>
+    <Price 单价="18">18</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name 菜名="炖鸡">炖鸡</Name>
+    <Price 单价="20">20</Price>
+    <OnOff 开关="是">是</OnOff>
+  </Dish>
+  <Dish>
+    <Name>明哥烤肉</Name>
+    <Price>11</Price>
+    <OnOff>是</OnOff>
+  </Dish>
+  <Dish>
+    <Name>塔斯汀香辣鸡腿堡</Name>
+    <Price>13.9</Price>
+    <OnOff>是</OnOff>
+  </Dish>
+</Menu>
