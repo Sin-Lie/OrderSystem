@@ -1,0 +1,34 @@
+# 解决方案和项目文件
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# 编译输出
+##其他
+OrderSystem/obj/
+*.dll
+*.exe
+*.pdb
+##保留追踪Debug下的.XML和.dll文件
+OrderSystem/bin/*
+!OrderSystem/bin/Debug/
+OrderSystem/bin/Debug/*
+!OrderSystem/bin/Debug/*.XML
+!OrderSystem/bin/Debug/*.dll
+
+#安装程序
+OrderSystem_Setup/
+
+# 日志和临时文件
+*.log
+*.cache
+
+# 本地配置
+appsettings.Development.json
+secrets.json
+
+# 包管理
+packages/
+.vs/
+
